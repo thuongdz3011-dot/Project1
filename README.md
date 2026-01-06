@@ -8,7 +8,7 @@
 
 ## 🚀 Các Tính Năng Cốt Lõi
 
-Chúng tôi tập trung vào việc tạo ra một hệ thống đồng bộ, hiệu quả cho cả người dùng cuối và quản trị viên:
+Tập trung vào việc tạo ra một hệ thống đồng bộ, hiệu quả cho cả người dùng cuối và quản trị viên:
 
 | Tính Năng Chính | Mô Tả Giá Trị |
 | :--- | :--- |
@@ -39,13 +39,8 @@ Sử dụng bộ công nghệ hiện đại, hiệu năng cao và có tính ổn
 | **Cơ Sở Dữ Liệu** | **SQL Server** | Hệ quản trị CSDL quan hệ mạnh mẽ, đảm bảo tính toàn vẹn dữ liệu. |
 | **Frontend** | **Razor View Engine** | Cho phép nhúng C# vào HTML, giao diện thân thiện (kết hợp với **Bootstrap** và **jQuery**). |
 
-### Badges Công Nghệ
-Đây là các "huy hiệu" bạn có thể dán vào đầu file để dự án chuyên nghiệp hơn (ví dụ):
-* ![](https://img.shields.io/badge/Backend-ASP.NET%20Core%20MVC-purple?style=flat-square&logo=dotnet)
-* ![](https://img.shields.io/badge/Database-SQL%20Server-red?style=flat-square&logo=microsoft-sql-server)
-* ![](https://img.shields.io/badge/Frontend-Razor%20View%20Engine-blue?style=flat-square&logo=c-sharp)
-
----
+### DEMO
+- Xem ảnh trong [tailieubaocao/anhchucnanghethong]
 
 ## 🏗️ Kiến Trúc Phần Mềm (MVC)
 
